@@ -2,7 +2,7 @@
 
 I'm a fullstack developer with roughly 25 years of experience. Starting with c++ I've wended a road through asp, c# and java. I now mostly spend my time in js though using nodejs for backend and various frontend frameworks (and bun when I can get away with it).
 
-Currently I work as chief architect at Veed.io, doing fun things with video at scale.
+Currently I work as chief architect at Veed.io, doing fun things with people, code, processes and video at scale.
 
 ### 🔭 I’m working on
 
