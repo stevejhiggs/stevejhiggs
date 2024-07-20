@@ -20,5 +20,4 @@ There's a number of repos in here that were useful at the time but are now effec
 Some repos also support some old talks I've done, but again they should no longer be treated as up-to-date:
 
 - [less terrible javascript](https://github.com/stevejhiggs/lessTerribleJavascript)
-
 - [converting a node service to typescript](https://github.com/stevejhiggs/convertNodeServiceToTypescript) - converting a js based express service to typescript step by step.
