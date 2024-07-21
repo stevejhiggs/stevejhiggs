@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a fullstack developer; Backend, frontend, infra, enigineering management, complience, security, project management....all the things. Starting with c++ I've wended a road through asp, c# and java. I now mostly spend my time in js though using nodejs for backend and various frontend frameworks (and bun when I can get away with it).
+I'm a fullstack developer; Backend, frontend, infra, engineering management, complience, security, project management....all the things. Starting with c++ I've wended a road through asp, c# and java. I now mostly spend my time in javascript using nodejs for backend and various frontend frameworks.
 
 Currently I work as chief architect at Veed.io, doing fun things with people, code, processes and video at scale.
 
