@@ -7,7 +7,7 @@ Currently I work as chief architect at Veed.io, doing fun things with people, co
 ### 🔭 I’m working on
 
 - [big ui](https://github.com/stevejhiggs/big-ui) - an experiment in how to handle development and deployment of large scale frontend projects
-- [fastify skeleton](https://github.com/stevejhiggs/fastify-typescript-skeleton) an attempt at a "batteries included" production ready fastify api.
+- [fastify skeleton](https://github.com/stevejhiggs/fastify-typescript-skeleton) A constantly evolving fastify skeleton that represents what I would consider the basics of a "good" node api.
 
 ### 🤔 Previously
 
